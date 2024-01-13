@@ -1,0 +1,3 @@
+[*]
+indent_style = space // Thụt le space hoac tabs
+indent_size = 2 // Thut le bao nhieu spaces
